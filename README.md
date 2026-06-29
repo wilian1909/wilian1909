@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, mundo! 👋
 
-<!--
-**wilian1909/wilian1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia da Computação**, unindo a base sólida da computação de sistemas com a prática da Engenharia de Software.
 
-Here are some ideas to get you started:
+### 🛠 Minhas Tecnologias
+- **Linguagens:** Python, SQL
+- **Interesses:** Arquitetura de Sistemas, Automação, Back-end e Infraestrutura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/wilian-bueno-525048411/)
+- E-mail: tecnomodulos2025@gmail.com
+
+---
+*Em constante aprendizado e aberto a oportunidades de estágio!*
